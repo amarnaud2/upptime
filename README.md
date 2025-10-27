@@ -3,7 +3,6 @@
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/amarnaud2/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/amarnaud2/upptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/amarnaud2/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/amarnaud2/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/upptime/upptime/issues) as incident reports, [Actions](https://github.com/amarnaud2/upptime/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
