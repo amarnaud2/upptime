@@ -22,54 +22,60 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 538,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
-    "dailyMinutesDown": {}
+    "time": 568,
+    "timeDay": 442,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "Restonosolo.fr/en",
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 282,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
-    "dailyMinutesDown": {}
+    "time": 387,
+    "timeDay": 248,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "LCNM",
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1319,
-    "timeDay": 1396,
-    "timeWeek": 1319,
-    "timeMonth": 1319,
-    "timeYear": 1319,
-    "dailyMinutesDown": {}
+    "time": 1268,
+    "timeDay": 1177,
+    "timeWeek": 1268,
+    "timeMonth": 1268,
+    "timeYear": 1268,
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "I Love Nice",
