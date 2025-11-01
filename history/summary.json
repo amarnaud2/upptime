@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 210,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 212,
+    "timeDay": 194,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 569,
-    "timeDay": 498,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
-    "dailyMinutesDown": {
-      "2025-10-31": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 575,
+    "timeDay": 515,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Restonosolo.fr/en",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 390,
-    "timeDay": 319,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
-    "dailyMinutesDown": {
-      "2025-10-31": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 393,
+    "timeDay": 311,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LCNM",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1331,
-    "timeDay": 1705,
-    "timeWeek": 1331,
-    "timeMonth": 1331,
-    "timeYear": 1331,
-    "dailyMinutesDown": {
-      "2025-10-31": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1353,
+    "timeDay": 1602,
+    "timeWeek": 1353,
+    "timeMonth": 1353,
+    "timeYear": 1353,
+    "dailyMinutesDown": {}
   },
   {
     "name": "I Love Nice",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 527,
-    "timeDay": 136,
-    "timeWeek": 527,
-    "timeMonth": 527,
-    "timeYear": 527,
+    "time": 499,
+    "timeDay": 273,
+    "timeWeek": 499,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   }
 ]
