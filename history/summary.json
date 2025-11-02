@@ -22,19 +22,19 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 481,
-    "timeWeek": 548,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 550,
+    "timeDay": 494,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-11-02": 0
+      "2025-11-02": 15
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 380,
     "timeDay": 347,
     "timeWeek": 380,
     "timeMonth": 380,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-11-02": 0
+      "2025-11-02": 15
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 1185,
-    "timeWeek": 1305,
-    "timeMonth": 1305,
-    "timeYear": 1305,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1317,
+    "timeDay": 1236,
+    "timeWeek": 1317,
+    "timeMonth": 1317,
+    "timeYear": 1317,
     "dailyMinutesDown": {
-      "2025-11-02": 0
+      "2025-11-02": 15
     }
   },
   {
