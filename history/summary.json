@@ -90,19 +90,19 @@
     "url": "https://www.ilovenice.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovenice.eu.ico",
     "slug": "i-love-nice",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 338,
-    "timeDay": 229,
-    "timeWeek": 273,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 345,
+    "timeDay": 264,
+    "timeWeek": 293,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-11-18": 133
+      "2025-11-18": 142
     }
   }
 ]
