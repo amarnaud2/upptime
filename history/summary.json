@@ -4,19 +4,19 @@
     "url": "https://www.digital-advantage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.digital-advantage.com.ico",
     "slug": "digital-advantage-com",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "90.57%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 210,
     "timeDay": 190,
     "timeWeek": 188,
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-11-18": 135
+      "2025-11-18": 143
     }
   },
   {
