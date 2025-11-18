@@ -4,19 +4,19 @@
     "url": "https://www.digital-advantage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.digital-advantage.com.ico",
     "slug": "digital-advantage-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 172,
-    "timeWeek": 181,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 214,
+    "timeDay": 168,
+    "timeWeek": 179,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -90,19 +90,19 @@
     "url": "https://www.ilovenice.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovenice.eu.ico",
     "slug": "i-love-nice",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 202,
-    "timeWeek": 310,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 361,
+    "timeDay": 195,
+    "timeWeek": 295,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   }
 ]
