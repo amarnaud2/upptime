@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.digital-advantage.com.ico",
     "slug": "digital-advantage-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 168,
     "timeWeek": 179,
     "timeMonth": 214,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2025-11-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Restonosolo.fr",
@@ -90,19 +88,19 @@
     "url": "https://www.ilovenice.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovenice.eu.ico",
     "slug": "i-love-nice",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 361,
-    "timeDay": 195,
-    "timeWeek": 295,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 358,
+    "timeDay": 214,
+    "timeWeek": 293,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 0
     }
   }
 ]
