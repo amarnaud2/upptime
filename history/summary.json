@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 194,
-    "timeDay": 111,
-    "timeWeek": 187,
+    "timeDay": 161,
+    "timeWeek": 191,
     "timeMonth": 179,
     "timeYear": 194,
     "dailyMinutesDown": {
@@ -24,16 +24,16 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "89.14%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "89.13%",
     "uptimeWeek": "93.01%",
     "uptimeMonth": "96.08%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.39%",
     "time": 554,
-    "timeDay": 482,
-    "timeWeek": 516,
-    "timeMonth": 507,
+    "timeDay": 467,
+    "timeWeek": 514,
+    "timeMonth": 506,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2026-02-09": 157,
@@ -80,8 +80,7 @@
       "2025-12-13": 36,
       "2025-12-12": 36,
       "2025-12-11": 87,
-      "2025-12-10": 21,
-      "2025-12-09": 30
+      "2025-12-10": 21
     }
   },
   {
@@ -89,15 +88,15 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "89.13%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "89.12%",
     "uptimeWeek": "93.00%",
     "uptimeMonth": "96.08%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.39%",
     "time": 370,
-    "timeDay": 376,
-    "timeWeek": 377,
+    "timeDay": 395,
+    "timeWeek": 379,
     "timeMonth": 369,
     "timeYear": 370,
     "dailyMinutesDown": {
@@ -145,8 +144,7 @@
       "2025-12-13": 36,
       "2025-12-12": 36,
       "2025-12-11": 87,
-      "2025-12-10": 21,
-      "2025-12-09": 30
+      "2025-12-10": 21
     }
   },
   {
@@ -154,17 +152,17 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "89.13%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "89.11%",
     "uptimeWeek": "93.00%",
     "uptimeMonth": "96.07%",
-    "uptimeYear": "98.34%",
-    "time": 702,
-    "timeDay": 383,
-    "timeWeek": 441,
-    "timeMonth": 429,
-    "timeYear": 702,
+    "uptimeYear": "98.38%",
+    "time": 701,
+    "timeDay": 392,
+    "timeWeek": 440,
+    "timeMonth": 428,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2026-02-09": 157,
       "2026-02-08": 71,
@@ -211,7 +209,7 @@
       "2025-12-12": 36,
       "2025-12-11": 71,
       "2025-12-10": 21,
-      "2025-12-09": 85
+      "2025-12-09": 30
     }
   },
   {
@@ -225,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 318,
-    "timeDay": 171,
-    "timeWeek": 259,
-    "timeMonth": 297,
-    "timeYear": 318,
+    "time": 319,
+    "timeDay": 494,
+    "timeWeek": 272,
+    "timeMonth": 302,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2025-11-18": 133
     }
