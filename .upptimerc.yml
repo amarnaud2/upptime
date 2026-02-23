@@ -2,17 +2,42 @@
 owner: amarnaud2 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# Workflow schedule
+workflow-schedule:
+  uptime: "*/15 * * * *"   # Every 15 min instead of 5
+  graphs: "0 0 * * *"      # Graphiques generation once a day at midnight
+  static-site: "0 1 * * *" # Status site update once a day at 1:00am
+  summary: "0 0 * * 0"     # Weekly summary on Sunday
+
+# Use real browser signature
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
 sites:
   - name: Digital-Advantage.com
     url: https://www.digital-advantage.com
+    headers:
+      - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+      - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
   - name: Restonosolo.fr
     url: https://www.restonosolo.fr
+    headers:
+      - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+      - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
   - name: Restonosolo.fr/en
     url: https://www.restonosolo.fr/en
+    headers:
+      - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+      - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
   - name: LCNM
     url: https://www.lcnm.art
+    headers:
+      - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+      - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
   - name: I Love Nice
     url: https://www.ilovenice.eu
+    headers:
+      - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+      - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
