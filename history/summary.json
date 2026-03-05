@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 193,
-    "timeDay": 115,
-    "timeWeek": 158,
-    "timeMonth": 184,
-    "timeYear": 193,
+    "time": 192,
+    "timeDay": 168,
+    "timeWeek": 155,
+    "timeMonth": 182,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2025-11-18": 135
     }
@@ -24,15 +24,15 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "84.44%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "84.43%",
+    "uptimeWeek": "93.52%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "98.60%",
     "time": 546,
-    "timeDay": 536,
-    "timeWeek": 493,
+    "timeDay": 517,
+    "timeWeek": 487,
     "timeMonth": 515,
     "timeYear": 546,
     "dailyMinutesDown": {
@@ -60,8 +60,7 @@
       "2026-02-11": 134,
       "2026-02-10": 105,
       "2026-02-09": 157,
-      "2026-02-08": 71,
-      "2026-02-07": 28
+      "2026-02-08": 71
     }
   },
   {
@@ -69,17 +68,17 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "84.43%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "93.97%",
-    "uptimeYear": "98.58%",
-    "time": 370,
-    "timeDay": 372,
-    "timeWeek": 345,
-    "timeMonth": 368,
-    "timeYear": 370,
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "84.42%",
+    "uptimeWeek": "93.52%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "98.60%",
+    "time": 369,
+    "timeDay": 297,
+    "timeWeek": 338,
+    "timeMonth": 367,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2026-03-05": 223,
       "2026-03-04": 61,
@@ -105,8 +104,7 @@
       "2026-02-11": 134,
       "2026-02-10": 105,
       "2026-02-09": 157,
-      "2026-02-08": 71,
-      "2026-02-07": 28
+      "2026-02-08": 71
     }
   },
   {
@@ -114,15 +112,15 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "84.43%",
-    "uptimeWeek": "93.33%",
-    "uptimeMonth": "93.97%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "84.41%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "98.60%",
     "time": 645,
-    "timeDay": 424,
-    "timeWeek": 432,
+    "timeDay": 409,
+    "timeWeek": 429,
     "timeMonth": 447,
     "timeYear": 645,
     "dailyMinutesDown": {
@@ -150,8 +148,7 @@
       "2026-02-11": 134,
       "2026-02-10": 105,
       "2026-02-09": 157,
-      "2026-02-08": 71,
-      "2026-02-07": 28
+      "2026-02-08": 71
     }
   },
   {
@@ -165,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 317,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 304,
-    "timeYear": 317,
+    "time": 319,
+    "timeDay": 540,
+    "timeWeek": 296,
+    "timeMonth": 305,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2025-11-18": 133
     }
