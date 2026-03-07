@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 192,
-    "timeDay": 168,
-    "timeWeek": 155,
-    "timeMonth": 182,
+    "timeDay": 195,
+    "timeWeek": 163,
+    "timeMonth": 185,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-11-18": 135
@@ -26,17 +26,17 @@
     "slug": "restonosolo-fr",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "98.60%",
     "time": 546,
-    "timeDay": 503,
-    "timeWeek": 489,
+    "timeDay": 535,
+    "timeWeek": 491,
     "timeMonth": 514,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2026-03-06": 68,
+      "2026-03-06": 55,
       "2026-03-05": 223,
       "2026-03-04": 61,
       "2026-03-03": 79,
@@ -61,7 +61,7 @@
       "2026-02-11": 134,
       "2026-02-10": 105,
       "2026-02-09": 157,
-      "2026-02-08": 21
+      "2026-02-08": 42
     }
   },
   {
@@ -71,17 +71,17 @@
     "slug": "restonosolo-fr-en",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "98.60%",
     "time": 370,
-    "timeDay": 446,
-    "timeWeek": 341,
-    "timeMonth": 368,
+    "timeDay": 486,
+    "timeWeek": 345,
+    "timeMonth": 369,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2026-03-06": 69,
+      "2026-03-06": 56,
       "2026-03-05": 223,
       "2026-03-04": 61,
       "2026-03-03": 80,
@@ -106,7 +106,7 @@
       "2026-02-11": 134,
       "2026-02-10": 105,
       "2026-02-09": 157,
-      "2026-02-08": 21
+      "2026-02-08": 42
     }
   },
   {
@@ -116,17 +116,17 @@
     "slug": "lcnm",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "93.99%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "98.60%",
-    "time": 645,
+    "time": 644,
     "timeDay": 486,
-    "timeWeek": 442,
-    "timeMonth": 442,
-    "timeYear": 645,
+    "timeWeek": 444,
+    "timeMonth": 443,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-03-06": 69,
+      "2026-03-06": 56,
       "2026-03-05": 224,
       "2026-03-04": 61,
       "2026-03-03": 80,
@@ -151,7 +151,7 @@
       "2026-02-11": 134,
       "2026-02-10": 105,
       "2026-02-09": 157,
-      "2026-02-08": 21
+      "2026-02-08": 42
     }
   },
   {
@@ -165,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 319,
-    "timeDay": 540,
-    "timeWeek": 296,
-    "timeMonth": 305,
-    "timeYear": 319,
+    "time": 318,
+    "timeDay": 191,
+    "timeWeek": 294,
+    "timeMonth": 307,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-11-18": 133
     }
