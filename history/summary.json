@@ -24,17 +24,17 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "90.31%",
-    "uptimeWeek": "86.33%",
-    "uptimeMonth": "93.74%",
-    "uptimeYear": "98.63%",
-    "time": 541,
-    "timeDay": 475,
-    "timeWeek": 490,
-    "timeMonth": 491,
-    "timeYear": 541,
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "98.65%",
+    "time": 540,
+    "timeDay": 470,
+    "timeWeek": 491,
+    "timeMonth": 490,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2026-03-15": 84,
       "2026-03-14": 158,
@@ -57,8 +57,7 @@
       "2026-02-23": 76,
       "2026-02-22": 76,
       "2026-02-21": 69,
-      "2026-02-20": 83,
-      "2026-02-19": 29
+      "2026-02-20": 83
     }
   },
   {
@@ -66,15 +65,15 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "83.49%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "98.50%",
     "time": 369,
-    "timeDay": 329,
-    "timeWeek": 360,
+    "timeDay": 313,
+    "timeWeek": 359,
     "timeMonth": 346,
     "timeYear": 369,
     "dailyMinutesDown": {
@@ -99,8 +98,7 @@
       "2026-02-23": 76,
       "2026-02-22": 77,
       "2026-02-21": 69,
-      "2026-02-20": 83,
-      "2026-02-19": 29
+      "2026-02-20": 83
     }
   },
   {
@@ -108,16 +106,16 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "90.29%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "91.83%",
     "uptimeWeek": "83.98%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "98.50%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "98.51%",
     "time": 620,
-    "timeDay": 406,
-    "timeWeek": 413,
-    "timeMonth": 442,
+    "timeDay": 412,
+    "timeWeek": 410,
+    "timeMonth": 440,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2026-03-15": 85,
@@ -142,8 +140,7 @@
       "2026-02-22": 77,
       "2026-02-21": 69,
       "2026-02-20": 83,
-      "2026-02-19": 29,
-      "2026-02-18": 15
+      "2026-02-19": 29
     }
   },
   {
