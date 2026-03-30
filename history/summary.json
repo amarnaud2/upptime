@@ -26,17 +26,17 @@
     "slug": "restonosolo-fr",
     "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "94.88%",
-    "uptimeWeek": "94.21%",
-    "uptimeMonth": "93.74%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "98.76%",
     "time": 541,
     "timeDay": 455,
-    "timeWeek": 598,
-    "timeMonth": 512,
+    "timeWeek": 601,
+    "timeMonth": 513,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2026-03-30": 0,
+      "2026-03-30": 46,
       "2026-03-29": 73,
       "2026-03-28": 72,
       "2026-03-27": 203,
@@ -58,8 +58,7 @@
       "2026-03-11": 201,
       "2026-03-10": 385,
       "2026-03-09": 128,
-      "2026-03-08": 21,
-      "2026-03-06": 33
+      "2026-03-08": 21
     }
   },
   {
@@ -69,17 +68,17 @@
     "slug": "restonosolo-fr-en",
     "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "94.21%",
-    "uptimeMonth": "93.08%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "93.05%",
     "uptimeYear": "98.63%",
     "time": 368,
-    "timeDay": 245,
-    "timeWeek": 351,
+    "timeDay": 270,
+    "timeWeek": 354,
     "timeMonth": 357,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-03-30": 0,
+      "2026-03-30": 46,
       "2026-03-29": 73,
       "2026-03-28": 72,
       "2026-03-27": 203,
@@ -101,8 +100,7 @@
       "2026-03-11": 201,
       "2026-03-10": 386,
       "2026-03-09": 179,
-      "2026-03-08": 21,
-      "2026-03-06": 34
+      "2026-03-08": 21
     }
   },
   {
@@ -112,17 +110,17 @@
     "slug": "lcnm",
     "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "94.20%",
-    "uptimeMonth": "93.14%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "98.64%",
     "time": 603,
-    "timeDay": 390,
-    "timeWeek": 494,
+    "timeDay": 413,
+    "timeWeek": 498,
     "timeMonth": 433,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-03-30": 0,
+      "2026-03-30": 46,
       "2026-03-29": 73,
       "2026-03-28": 72,
       "2026-03-27": 203,
@@ -145,7 +143,7 @@
       "2026-03-10": 386,
       "2026-03-09": 128,
       "2026-03-08": 21,
-      "2026-03-06": 56
+      "2026-03-06": 34
     }
   },
   {
