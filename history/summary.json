@@ -33,7 +33,7 @@
     "time": 537,
     "timeDay": 415,
     "timeWeek": 464,
-    "timeMonth": 510,
+    "timeMonth": 511,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2026-04-08": 116,
@@ -79,7 +79,7 @@
     "time": 362,
     "timeDay": 260,
     "timeWeek": 258,
-    "timeMonth": 336,
+    "timeMonth": 337,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2026-04-08": 142,
@@ -124,7 +124,7 @@
     "time": 597,
     "timeDay": 269,
     "timeWeek": 476,
-    "timeMonth": 452,
+    "timeMonth": 453,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2026-04-08": 116,
@@ -161,19 +161,19 @@
     "url": "https://www.ilovenice.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovenice.eu.ico",
     "slug": "i-love-nice",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.93%",
     "time": 314,
-    "timeDay": 176,
-    "timeWeek": 340,
-    "timeMonth": 290,
+    "timeDay": 301,
+    "timeWeek": 350,
+    "timeMonth": 295,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2026-04-08": 0,
+      "2026-04-08": 27,
       "2025-11-18": 133
     }
   }
