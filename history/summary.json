@@ -24,16 +24,16 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "83.10%",
-    "uptimeWeek": "85.66%",
-    "uptimeMonth": "91.78%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "84.79%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "98.73%",
     "time": 533,
-    "timeDay": 488,
-    "timeWeek": 518,
-    "timeMonth": 504,
+    "timeDay": 469,
+    "timeWeek": 519,
+    "timeMonth": 503,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2026-05-10": 174,
@@ -61,7 +61,7 @@
       "2026-04-18": 238,
       "2026-04-17": 134,
       "2026-04-16": 47,
-      "2026-04-15": 161
+      "2026-04-15": 119
     }
   },
   {
@@ -69,15 +69,15 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "83.30%",
-    "uptimeWeek": "85.74%",
-    "uptimeMonth": "91.80%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "85.76%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "98.74%",
     "time": 375,
-    "timeDay": 647,
-    "timeWeek": 654,
+    "timeDay": 596,
+    "timeWeek": 658,
     "timeMonth": 459,
     "timeYear": 375,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
       "2026-04-18": 238,
       "2026-04-17": 134,
       "2026-04-16": 47,
-      "2026-04-15": 161
+      "2026-04-15": 119
     }
   },
   {
@@ -117,12 +117,12 @@
     "status": "up",
     "uptime": "98.74%",
     "uptimeDay": "92.29%",
-    "uptimeWeek": "91.99%",
+    "uptimeWeek": "92.01%",
     "uptimeMonth": "91.92%",
     "uptimeYear": "98.74%",
     "time": 580,
     "timeDay": 597,
-    "timeWeek": 462,
+    "timeWeek": 468,
     "timeMonth": 455,
     "timeYear": 580,
     "dailyMinutesDown": {
