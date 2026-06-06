@@ -25,13 +25,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
     "status": "down",
-    "uptime": "98.00%",
-    "uptimeDay": "51.97%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "85.44%",
-    "uptimeYear": "98.00%",
+    "uptime": "97.99%",
+    "uptimeDay": "49.82%",
+    "uptimeWeek": "64.20%",
+    "uptimeMonth": "85.30%",
+    "uptimeYear": "97.99%",
     "time": 526,
-    "timeDay": 340,
+    "timeDay": 306,
     "timeWeek": 386,
     "timeMonth": 457,
     "timeYear": 526,
@@ -64,7 +64,7 @@
       "2026-06-03": 505,
       "2026-06-04": 825,
       "2026-06-05": 807,
-      "2026-06-06": 350
+      "2026-06-06": 411
     }
   },
   {
@@ -73,13 +73,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "down",
-    "uptime": "98.01%",
-    "uptimeDay": "52.10%",
-    "uptimeWeek": "64.87%",
-    "uptimeMonth": "85.49%",
-    "uptimeYear": "98.01%",
+    "uptime": "97.99%",
+    "uptimeDay": "49.94%",
+    "uptimeWeek": "64.26%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "97.99%",
     "time": 388,
-    "timeDay": 406,
+    "timeDay": 375,
     "timeWeek": 472,
     "timeMonth": 574,
     "timeYear": 388,
@@ -112,7 +112,7 @@
       "2026-06-03": 502,
       "2026-06-04": 824,
       "2026-06-05": 804,
-      "2026-06-06": 350
+      "2026-06-06": 411
     }
   },
   {
@@ -120,16 +120,16 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "55.10%",
-    "uptimeWeek": "67.61%",
-    "uptimeMonth": "88.36%",
-    "uptimeYear": "98.10%",
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "52.96%",
+    "uptimeWeek": "67.01%",
+    "uptimeMonth": "88.22%",
+    "uptimeYear": "98.08%",
     "time": 567,
-    "timeDay": 362,
-    "timeWeek": 329,
-    "timeMonth": 398,
+    "timeDay": 353,
+    "timeWeek": 328,
+    "timeMonth": 397,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2026-04-26": 19,
@@ -168,7 +168,7 @@
       "2026-06-03": 401,
       "2026-06-04": 821,
       "2026-06-05": 804,
-      "2026-06-06": 305
+      "2026-06-06": 366
     }
   },
   {
