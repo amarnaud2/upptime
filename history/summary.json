@@ -25,13 +25,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "83.74%",
-    "uptimeWeek": "73.73%",
-    "uptimeMonth": "80.85%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.50%",
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "73.43%",
+    "uptimeMonth": "80.78%",
+    "uptimeYear": "97.50%",
     "time": 521,
-    "timeDay": 923,
+    "timeDay": 947,
     "timeWeek": 447,
     "timeMonth": 431,
     "timeYear": 521,
@@ -60,7 +60,7 @@
       "2026-06-15": 112,
       "2026-06-16": 458,
       "2026-06-17": 252,
-      "2026-06-18": 1
+      "2026-06-18": 31
     }
   },
   {
@@ -69,13 +69,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "83.79%",
-    "uptimeWeek": "73.79%",
-    "uptimeMonth": "80.89%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.50%",
+    "uptimeDay": "81.73%",
+    "uptimeWeek": "73.49%",
+    "uptimeMonth": "80.82%",
+    "uptimeYear": "97.50%",
     "time": 392,
-    "timeDay": 444,
+    "timeDay": 388,
     "timeWeek": 452,
     "timeMonth": 504,
     "timeYear": 392,
@@ -104,7 +104,7 @@
       "2026-06-15": 112,
       "2026-06-16": 455,
       "2026-06-17": 252,
-      "2026-06-18": 0
+      "2026-06-18": 31
     }
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
     "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "74.37%",
-    "uptimeMonth": "81.83%",
-    "uptimeYear": "97.61%",
+    "uptime": "97.60%",
+    "uptimeDay": "81.77%",
+    "uptimeWeek": "74.07%",
+    "uptimeMonth": "81.76%",
+    "uptimeYear": "97.60%",
     "time": 557,
     "timeDay": 454,
     "timeWeek": 381,
@@ -153,7 +153,7 @@
       "2026-06-15": 110,
       "2026-06-16": 444,
       "2026-06-17": 233,
-      "2026-06-18": 0
+      "2026-06-18": 31
     }
   },
   {
