@@ -24,15 +24,15 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "86.94%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "86.87%",
     "uptimeYear": "98.45%",
     "time": 503,
-    "timeDay": 293,
-    "timeWeek": 272,
+    "timeDay": 285,
+    "timeWeek": 271,
     "timeMonth": 301,
     "timeYear": 503,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
       "2026-07-08": 142,
       "2026-07-09": 177,
       "2026-07-10": 154,
-      "2026-07-11": 97
+      "2026-07-11": 126
     }
   },
   {
@@ -72,14 +72,14 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "93.38%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "86.98%",
-    "uptimeYear": "98.46%",
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "86.91%",
+    "uptimeYear": "98.45%",
     "time": 385,
-    "timeDay": 225,
+    "timeDay": 235,
     "timeWeek": 342,
     "timeMonth": 324,
     "timeYear": 385,
@@ -112,7 +112,7 @@
       "2026-07-08": 142,
       "2026-07-09": 177,
       "2026-07-10": 154,
-      "2026-07-11": 95
+      "2026-07-11": 125
     }
   },
   {
