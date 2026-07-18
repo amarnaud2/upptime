@@ -24,19 +24,19 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "94.89%",
-    "uptimeWeek": "89.77%",
-    "uptimeMonth": "89.29%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "90.09%",
+    "uptimeMonth": "89.40%",
+    "uptimeYear": "98.78%",
     "time": 501,
-    "timeDay": 440,
-    "timeWeek": 425,
+    "timeDay": 430,
+    "timeWeek": 433,
     "timeMonth": 290,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-06-20": 299,
+      "2026-06-20": 242,
       "2026-06-21": 192,
       "2026-06-22": 360,
       "2026-06-23": 173,
@@ -64,7 +64,7 @@
       "2026-07-15": 136,
       "2026-07-16": 250,
       "2026-07-17": 183,
-      "2026-07-18": 38
+      "2026-07-18": 48
     }
   },
   {
@@ -72,16 +72,16 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "90.36%",
-    "uptimeMonth": "89.25%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "90.82%",
+    "uptimeMonth": "89.26%",
     "uptimeYear": "98.76%",
     "time": 386,
-    "timeDay": 403,
-    "timeWeek": 477,
-    "timeMonth": 326,
+    "timeDay": 400,
+    "timeWeek": 488,
+    "timeMonth": 327,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2026-06-20": 389,
@@ -112,7 +112,7 @@
       "2026-07-15": 132,
       "2026-07-16": 235,
       "2026-07-17": 150,
-      "2026-07-18": 32
+      "2026-07-18": 26
     }
   },
   {
@@ -120,15 +120,15 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "93.29%",
-    "uptimeMonth": "89.58%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "89.75%",
     "uptimeYear": "98.70%",
     "time": 540,
-    "timeDay": 617,
-    "timeWeek": 475,
+    "timeDay": 573,
+    "timeWeek": 490,
     "timeMonth": 353,
     "timeYear": 540,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
       "2026-07-15": 107,
       "2026-07-16": 56,
       "2026-07-17": 88,
-      "2026-07-18": 6
+      "2026-07-18": 0
     }
   },
   {
