@@ -13,7 +13,7 @@
     "time": 178,
     "timeDay": 111,
     "timeWeek": 168,
-    "timeMonth": 166,
+    "timeMonth": 169,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2025-11-18": 135
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "90.18%",
-    "uptimeMonth": "89.47%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.78%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "90.21%",
+    "uptimeMonth": "89.37%",
+    "uptimeYear": "98.78%",
     "time": 501,
     "timeDay": 424,
     "timeWeek": 448,
     "timeMonth": 292,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-06-20": 153,
+      "2026-06-20": 198,
       "2026-06-21": 192,
       "2026-06-22": 360,
       "2026-06-23": 173,
@@ -64,7 +64,7 @@
       "2026-07-15": 136,
       "2026-07-16": 250,
       "2026-07-17": 183,
-      "2026-07-18": 107
+      "2026-07-18": 104
     }
   },
   {
@@ -73,18 +73,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "91.10%",
-    "uptimeMonth": "89.38%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.76%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "89.18%",
+    "uptimeYear": "98.76%",
     "time": 386,
     "timeDay": 402,
     "timeWeek": 501,
     "timeMonth": 327,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2026-06-20": 299,
+      "2026-06-20": 389,
       "2026-06-21": 190,
       "2026-06-22": 360,
       "2026-06-23": 172,
@@ -112,7 +112,7 @@
       "2026-07-15": 132,
       "2026-07-16": 235,
       "2026-07-17": 150,
-      "2026-07-18": 66
+      "2026-07-18": 63
     }
   },
   {
@@ -179,7 +179,7 @@
     "time": 297,
     "timeDay": 170,
     "timeWeek": 290,
-    "timeMonth": 263,
+    "timeMonth": 267,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2025-11-18": 133,
