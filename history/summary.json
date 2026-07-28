@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "93.52%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.96%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "93.07%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "98.96%",
     "time": 500,
     "timeDay": 258,
     "timeWeek": 416,
@@ -66,7 +66,7 @@
       "2026-07-25": 154,
       "2026-07-26": 171,
       "2026-07-27": 15,
-      "2026-07-28": 0
+      "2026-07-28": 47
     }
   },
   {
@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.93%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "98.93%",
     "time": 388,
     "timeDay": 350,
     "timeWeek": 520,
@@ -117,7 +117,7 @@
       "2026-07-24": 97,
       "2026-07-25": 124,
       "2026-07-26": 123,
-      "2026-07-28": 0
+      "2026-07-28": 46
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.19%",
     "uptimeMonth": "92.75%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.86%",
     "time": 541,
     "timeDay": 470,
     "timeWeek": 644,
     "timeMonth": 427,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2026-06-20": 197,
+      "2026-06-20": 152,
       "2026-06-21": 188,
       "2026-06-22": 359,
       "2026-06-23": 172,
@@ -171,7 +171,8 @@
       "2026-07-23": 37,
       "2026-07-24": 82,
       "2026-07-25": 79,
-      "2026-07-26": 98
+      "2026-07-26": 98,
+      "2026-07-28": 0
     }
   },
   {
