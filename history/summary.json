@@ -24,16 +24,16 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "88.75%",
-    "uptimeWeek": "87.11%",
-    "uptimeMonth": "90.96%",
+    "uptimeDay": "87.51%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "90.92%",
     "uptimeYear": "99.01%",
     "time": 499,
-    "timeDay": 391,
-    "timeWeek": 357,
-    "timeMonth": 351,
+    "timeDay": 408,
+    "timeWeek": 360,
+    "timeMonth": 352,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2026-07-03": 54,
@@ -64,7 +64,7 @@
       "2026-07-29": 103,
       "2026-07-30": 377,
       "2026-07-31": 158,
-      "2026-08-01": 102
+      "2026-08-01": 120
     }
   },
   {
@@ -72,14 +72,14 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "98.98%",
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "89.18%",
+    "uptimeWeek": "88.93%",
+    "uptimeMonth": "90.79%",
+    "uptimeYear": "98.97%",
     "time": 388,
-    "timeDay": 406,
+    "timeDay": 407,
     "timeWeek": 389,
     "timeMonth": 400,
     "timeYear": 388,
@@ -113,7 +113,7 @@
       "2026-07-29": 87,
       "2026-07-30": 334,
       "2026-07-31": 139,
-      "2026-08-01": 87
+      "2026-08-01": 105
     }
   },
   {
@@ -121,16 +121,16 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "down",
+    "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "91.17%",
-    "uptimeMonth": "92.64%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "98.97%",
     "time": 540,
-    "timeDay": 505,
-    "timeWeek": 528,
-    "timeMonth": 455,
+    "timeDay": 468,
+    "timeWeek": 522,
+    "timeMonth": 454,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2026-06-27": 208,
@@ -165,7 +165,7 @@
       "2026-07-29": 47,
       "2026-07-30": 305,
       "2026-07-31": 108,
-      "2026-08-01": 72
+      "2026-08-01": 90
     }
   },
   {
