@@ -24,16 +24,16 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "96.04%",
+    "uptimeDay": "95.99%",
     "uptimeWeek": "85.60%",
-    "uptimeMonth": "89.10%",
+    "uptimeMonth": "89.09%",
     "uptimeYear": "98.86%",
     "time": 497,
-    "timeDay": 886,
-    "timeWeek": 459,
-    "timeMonth": 450,
+    "timeDay": 727,
+    "timeWeek": 457,
+    "timeMonth": 449,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2026-07-18": 104,
@@ -63,7 +63,7 @@
       "2026-08-12": 388,
       "2026-08-13": 137,
       "2026-08-14": 98,
-      "2026-08-15": 10
+      "2026-08-15": 11
     }
   },
   {
@@ -71,15 +71,15 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "96.66%",
     "uptimeWeek": "86.88%",
     "uptimeMonth": "89.53%",
     "uptimeYear": "98.88%",
     "time": 392,
-    "timeDay": 336,
-    "timeWeek": 577,
+    "timeDay": 389,
+    "timeWeek": 574,
     "timeMonth": 539,
     "timeYear": 392,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
       "2026-08-12": 370,
       "2026-08-13": 118,
       "2026-08-14": 81,
-      "2026-08-15": 5
+      "2026-08-15": 6
     }
   },
   {
@@ -121,16 +121,16 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "down",
+    "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "97.33%",
     "uptimeWeek": "88.20%",
     "uptimeMonth": "91.58%",
     "uptimeYear": "98.89%",
     "time": 542,
-    "timeDay": 309,
+    "timeDay": 447,
     "timeWeek": 716,
-    "timeMonth": 594,
+    "timeMonth": 595,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2026-07-08": 90,
