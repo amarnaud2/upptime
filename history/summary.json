@@ -25,19 +25,18 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "90.26%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "89.57%",
+    "uptimeWeek": "92.34%",
+    "uptimeMonth": "89.18%",
+    "uptimeYear": "98.89%",
     "time": 498,
     "timeDay": 630,
     "timeWeek": 541,
     "timeMonth": 440,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2026-07-24": 27,
       "2026-07-25": 154,
       "2026-07-26": 171,
       "2026-07-27": 15,
@@ -63,7 +62,7 @@
       "2026-08-16": 34,
       "2026-08-17": 182,
       "2026-08-18": 120,
-      "2026-08-19": 122
+      "2026-08-19": 132
     }
   },
   {
@@ -71,11 +70,11 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "94.24%",
-    "uptimeMonth": "90.07%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "90.08%",
     "uptimeYear": "98.89%",
     "time": 394,
     "timeDay": 779,
@@ -113,7 +112,7 @@
       "2026-08-14": 81,
       "2026-08-17": 162,
       "2026-08-18": 87,
-      "2026-08-19": 102
+      "2026-08-19": 96
     }
   },
   {
@@ -121,11 +120,11 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "91.56%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "98.96%",
     "time": 544,
     "timeDay": 644,
@@ -167,7 +166,7 @@
       "2026-08-14": 71,
       "2026-08-17": 143,
       "2026-08-18": 72,
-      "2026-08-19": 82
+      "2026-08-19": 77
     }
   },
   {
