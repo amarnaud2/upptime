@@ -25,11 +25,11 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "89.19%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "89.20%",
     "uptimeYear": "98.90%",
     "time": 498,
     "timeDay": 668,
@@ -64,7 +64,7 @@
       "2026-08-18": 120,
       "2026-08-19": 122,
       "2026-08-20": 66,
-      "2026-08-21": 41
+      "2026-08-21": 40
     }
   },
   {
@@ -72,11 +72,11 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "90.02%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "90.03%",
     "uptimeYear": "98.90%",
     "time": 395,
     "timeDay": 996,
@@ -115,7 +115,7 @@
       "2026-08-18": 87,
       "2026-08-19": 91,
       "2026-08-20": 61,
-      "2026-08-21": 31
+      "2026-08-21": 30
     }
   },
   {
@@ -123,9 +123,9 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "96.33%",
     "uptimeMonth": "91.39%",
     "uptimeYear": "98.97%",
@@ -171,7 +171,7 @@
       "2026-08-18": 72,
       "2026-08-19": 76,
       "2026-08-20": 56,
-      "2026-08-21": 21
+      "2026-08-21": 20
     }
   },
   {
