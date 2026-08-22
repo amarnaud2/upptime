@@ -26,9 +26,9 @@
     "url": "https://www.restonosolo.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "87.93%",
+    "uptimeDay": "87.99%",
     "uptimeWeek": "92.75%",
     "uptimeMonth": "89.32%",
     "uptimeYear": "98.91%",
@@ -65,7 +65,7 @@
       "2026-08-19": 122,
       "2026-08-20": 66,
       "2026-08-21": 46,
-      "2026-08-22": 128
+      "2026-08-22": 127
     }
   },
   {
@@ -73,10 +73,10 @@
     "url": "https://www.restonosolo.fr/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "94.73%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "94.74%",
     "uptimeMonth": "89.93%",
     "uptimeYear": "98.91%",
     "time": 395,
@@ -117,7 +117,7 @@
       "2026-08-19": 91,
       "2026-08-20": 61,
       "2026-08-21": 25,
-      "2026-08-22": 104
+      "2026-08-22": 103
     }
   },
   {
@@ -125,10 +125,10 @@
     "url": "https://www.lcnm.art",
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "94.04%",
-    "uptimeWeek": "95.69%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "95.70%",
     "uptimeMonth": "91.37%",
     "uptimeYear": "98.98%",
     "time": 545,
@@ -172,7 +172,7 @@
       "2026-08-19": 76,
       "2026-08-20": 56,
       "2026-08-21": 20,
-      "2026-08-22": 65
+      "2026-08-22": 64
     }
   },
   {
