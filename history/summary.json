@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr",
     "status": "down",
-    "uptime": "98.55%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "98.55%",
+    "uptime": "98.53%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "98.53%",
     "time": 497,
     "timeDay": 0,
     "timeWeek": 410,
-    "timeMonth": 494,
+    "timeMonth": 495,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2026-08-02": 355,
@@ -73,7 +73,7 @@
       "2026-09-04": 457,
       "2026-09-05": 106,
       "2026-09-06": 104,
-      "2026-09-11": 10
+      "2026-09-11": 103
     }
   },
   {
@@ -82,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restonosolo.fr.ico",
     "slug": "restonosolo-fr-en",
     "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "93.42%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "98.53%",
+    "uptime": "98.51%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "98.51%",
     "time": 397,
     "timeDay": 0,
     "timeWeek": 447,
-    "timeMonth": 585,
+    "timeMonth": 589,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2026-07-28": 109,
@@ -130,7 +130,7 @@
       "2026-09-04": 452,
       "2026-09-05": 106,
       "2026-09-06": 99,
-      "2026-09-11": 5
+      "2026-09-11": 99
     }
   },
   {
@@ -139,15 +139,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lcnm.art.ico",
     "slug": "lcnm",
     "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.56%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "92.64%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "98.56%",
     "time": 548,
     "timeDay": 0,
     "timeWeek": 637,
-    "timeMonth": 757,
+    "timeMonth": 762,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2026-07-24": 82,
@@ -189,7 +189,7 @@
       "2026-09-04": 448,
       "2026-09-05": 106,
       "2026-09-06": 94,
-      "2026-09-11": 1
+      "2026-09-11": 94
     }
   },
   {
