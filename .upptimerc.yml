@@ -1,13 +1,13 @@
 # Change these first
-owner: amarnaud2 # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: amarnaud2
+repo: upptime
 
 # Workflow schedule
 workflow-schedule:
-  uptime: "*/15 * * * *"   # Every 15 min instead of 5
-  graphs: "0 0 * * *"      # Graphiques generation once a day at midnight
-  static-site: "0 1 * * *" # Status site update once a day at 1:00am
-  summary: "0 0 * * 0"     # Weekly summary on Sunday
+  uptime: "*/15 * * * *"
+  graphs: "0 0 * * *"
+  static-site: "0 1 * * *"
+  summary: "0 0 * * 0"
 
 # Use real browser signature
 user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -15,39 +15,80 @@ user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 sites:
   - name: Digital-Advantage.com
     url: https://www.digital-advantage.com
+    method: HEAD
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
     headers:
       - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
       - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
+      - "Sec-Ch-Ua: \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\""
+      - "Sec-Ch-Ua-Mobile: ?0"
+      - "Sec-Ch-Ua-Platform: \"Windows\""
+
   - name: Restonosolo.fr
     url: https://www.restonosolo.fr
+    method: HEAD
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
     headers:
       - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
       - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
+      - "Sec-Ch-Ua: \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\""
+      - "Sec-Ch-Ua-Mobile: ?0"
+      - "Sec-Ch-Ua-Platform: \"Windows\""
+
   - name: Restonosolo.fr/en
     url: https://www.restonosolo.fr/en
+    method: HEAD
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
     headers:
       - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
       - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
+      - "Sec-Ch-Ua: \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\""
+      - "Sec-Ch-Ua-Mobile: ?0"
+      - "Sec-Ch-Ua-Platform: \"Windows\""
+
   - name: LCNM
     url: https://www.lcnm.art
+    method: HEAD
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
     headers:
       - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
       - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
+      - "Sec-Ch-Ua: \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\""
+      - "Sec-Ch-Ua-Mobile: ?0"
+      - "Sec-Ch-Ua-Platform: \"Windows\""
+
   - name: I Love Nice
     url: https://www.ilovenice.eu
+    method: HEAD
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
     headers:
       - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
       - "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"
-  #- name: IPv6 test
-  #  url: forwardemail.net
-  #  port: 80
-  #  check: "tcp-ping"
-  #  ipv6: true
+      - "Sec-Ch-Ua: \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\""
+      - "Sec-Ch-Ua-Mobile: ?0"
+      - "Sec-Ch-Ua-Platform: \"Windows\""
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -58,6 +99,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
